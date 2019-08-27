@@ -1,3 +1,3 @@
 # Setup
 
-a basic readme
+a basic readme, now slightly edited
