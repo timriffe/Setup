@@ -5,7 +5,7 @@ use_git_config(user.name = "Tim Riffe", user.email = "tim.riffe@gmail.com")
 
 # do only once:
 # browse_github_token()
-# GITHUB_PAT=36c530f1e959cf6fc980ccfdc571d8324fe8971f 
+# GITHUB_PAT=a6ce7ca27ec8178fc9fe1b00d7d1da47608a787e
 # edit_r_environ()
 use_git()
 use_github()
